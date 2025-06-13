@@ -1,0 +1,1 @@
+bool isNumberCorrect(int randomNumber);
